@@ -1,0 +1,6 @@
+- 👋 Hi, I’m HARISH S @harishofficl
+- 👀 I’m interested in Competitive programming and Problem Solving
+- 🌱 I’m currently learning Java with Data Structures
+- 💞️ I’m looking to open my career in a good company
+- 📫 Email : hareeshseen@gmail.com
+- ⚡ Fun fact: Every time is a good time if we think it is
