@@ -1,5 +1,5 @@
 - 👋 Hi, I’m HARISH S @harishofficl @TrusTrace
 - 👀 I’m interested in Competitive programming and Problem Solving
-- 🌱 I’m currently learning Java with Data Structures
+- 🌱 I’m currently learning Angular and Spring Boot
 - 📫 Email : hareeshseen@gmail.com
 - ⚡ Fun fact: Every time is a good time if we think it is
